@@ -131,4 +131,4 @@ dmypy.json
 .pyre/
 
 infra/*.terraform*
-infra/*.tfstate
+infra/*.tfstate*
